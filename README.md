@@ -1,3 +1,3 @@
 # Stock Prediction Using LSTM
-[Introductory time series prediction project.]
-A stacked-LSTM model constructed on Apple(NASDAQ-AAPL) stocks(obtained using tiingo). Prices of next 30 days have been predicted from the built model.
+[Introductory time series prediction project.]<br>
+A stacked-LSTM model constructed on Apple(NASDAQ-AAPL) stock prices(obtained using tiingo). A look-back of 100 days has been used for price prediction.
